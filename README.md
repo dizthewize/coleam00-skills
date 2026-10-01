@@ -1,6 +1,6 @@
 # Cole's AI Skills
 
-*Used to aid in building a dark factory concept* The skills I actually use to build software with coding agents. Straight out of my `.claude/skills/` folder.
+*Used to aid in building a dark factory concept*. The skills I actually use to build software with coding agents. Straight out of my `.claude/skills/` folder.
 
 ## What this is
 
